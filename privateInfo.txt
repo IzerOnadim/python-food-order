@@ -1,0 +1,4 @@
+Name: exampleName                       Please enter the name you use / would like to use for this account
+Email: examplePerson@exampleEmail.com   Please enter email username here.
+Password: examplePassword               Please enter your password here.
+Postcode: NW17LF                        Please enter your postcode here, without spaces.
